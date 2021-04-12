@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\welli\Documents\WorkSpaces\ExemplosJogos\.metadata\.plugins\org.eclipse.jdt.core
+3059588540.index
+2474927777.index
+2823657250.index
